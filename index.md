@@ -6,6 +6,18 @@ I am a Washington boy born and raised. I was born in Everett in the year 1991 an
 
 ### Learning Journal
 
+Growth Learning (Lab 01)
+
+```markdown
+"Growth Learning" in the most simple of my terms is being easy on yourself while having a positive outlook on challenging problems.
+
+Staying in a Growth Mindset
+
+1. My skill in coding will progress at a pace that is meant for me, others skill progression is not related to me.
+2. It takes a lot to make me lose my temper with a problem and sometimes completely give up on the task. So, I need to take a deep breath before I arrive at that stage and ask for help or whatever could lead to a solution.
+3. Don't be so critical on yourself, do the best work that **YOU** can do.
+```
+
 The following will be detailing what I personally learned and found useful in Code 102 on the second day of June 25th 2019.
 
 ```markdown
