@@ -56,6 +56,13 @@ The following will be detailing what I personally learned and found useful in Co
 
 [Link](url) and ![Image](src)
 ```
+Design web pages with CSS(Read 05)
+```markdown
+Blog Article (2-3 paragraphs with code sample)
+Dictionary / Flash Cards
+Notes in outline form
+Fill-in-the-blank worksheet of key concepts
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
