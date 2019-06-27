@@ -95,6 +95,36 @@ Git Tutorial: A Comprehensive Guide - Notes
 ```
 
 ```
+Structure web pages with HTML (Read 04)
+```markdown
+HTML & CSS - Chapter 18 - Process & Desgin
+-Process used when creating a new website
+-Websites need to be created with the Target Audience in mind
+  -Age range?
+  -Men, Women, or Both?
+  -Average Income?
+  -How often do they use the web?
+  -Size of company or relevant department?
+  -How large is the budget they control?
+  -Core things to know:
+    1.Name
+    2.Gender
+    3.Age
+    4.Location
+    5.Ocupation
+    6.Income
+    7.Web use
+-Know why people are using your website
+  -Two basic categories to determin the "Why?"
+    -Key Motivations: General entertainment or specific goal?
+    -Specific Goals: Wanting to get something ASAP
+-Having a site map allows plan a structure for a site
+-Wireframes = organize information for each page
+-Communication is heavily reliant on good desgin
+-Size, Color, & Style = Easily differentiate between pieces of info
+-Grouping & Similarity = helps simplify presented info
+```
+
 Design web pages with CSS (Read 05)
 ```markdown
 Blog Article (2-3 paragraphs with code sample)
