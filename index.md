@@ -55,6 +55,45 @@ The following will be detailing what I personally learned and found useful in Co
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+```
+Revisions and the Cloud (Read 03)
+```markdown
+Git Tutorial: A Comprehensive Guide - Notes
+-Prerequisites
+  -Understand Command Line for Windows and Linux
+-Version Control
+  -A system that allows a user to visit various areas where changes were made so that mistakes can easily be rectified
+  -Local Version Control = one database on hard disk that stores changes to files
+  -DVCS = Distributed Version Control systems
+  -DVCS has multiple mirrored repositories so it allows for steamlined teamwork with multiple people
+  -Three states of GIT
+    1. Commited
+    2. Modified
+    3. Staged
+-Getting Started  
+  -GIT includes inherent Graphical User Interface (GUI) tools
+  -Three ways to get more info on  particular command, by accessing the manual:
+   1. git help command
+   2. git command --help
+   3. man git-command
+-Setting up a Git Repository
+  -Importing
+  -Cloning
+ -Workflow
+  -Local Repository Structure
+    -Local Git repo has three components:
+      1. Working Directory: Actual files reside here
+      2. Index: Area used for staging
+      3. Head: Points to most recent commit
+  -Committing a File
+    -once one or multiple files are staged -> commit the changes & record what was done -> input: git commit -m "made change x,y,z"
+  -Commiting All Changes
+    -input: git commit -a
+  -Pushing Changes
+    -input: git push origin master
+```
+
 ```
 Design web pages with CSS (Read 05)
 ```markdown
