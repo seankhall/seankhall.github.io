@@ -149,13 +149,33 @@ HTML & CSS - Chapter 11 - Color
 ```
 Activate web pages with JavaScript (Read 06)
 ```markdown
-Blog Article (2-3 paragraphs with code sample)
-Dictionary / Flash Cards
-Notes in outline form
-Fill-in-the-blank worksheet of key concepts
+JavaScript & jQuery - Pages 43-69
+-Do Along: Pages 46-49
+-The three major languages in creating web pages: HTML, CSS, & JavaScript
+-These three languages popular way to approach building web pages = progressive enhancement
+-JavaScript written in plain text like HTML & CSS
+-Object = Represents entire web page
+-Method = The write() method of document object allows new content to be written into page where the <script> element sits
+-When browser comes across <script> element, it stops yo load script & checks to see if it needs to do anything else
+-Best to keep JavaScript code in own JavaScript file = filename.js
+-Sriptis series of instructions that a computer can follow one-by-one
+  -Each individual instruction or step is known as a statement = statements should end w/ semicolon
+-Write comments for each section of code to clearly explain what that code's function is  
+-Use variables to remember values
+-To use a variable = announce you want to use it  
+-Need to assign a value to a variable  
+-Data Types
+  1.Numeric Data Type
+  2.String Data Type
+  3.Boolean Data Type
+-Following are 6 rules to always follow when giving a variable a name:
+  1.Must begin w/ letter, dollar sign ($), or an underscore(_)
+  2.Name can contain letters, numbers, dollar sign ($), or an underscore(_) / Can Not Use: (-) or (.)
+  3.Cannot use keywords or reserved words
+  4.All variables are case sensitive
+  5.Make a name that is related to the information stored by the variable
+  6.Camel Case: if variable made of more that one word, use capital letter for first letter ofevery word after the first word = firstName
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
