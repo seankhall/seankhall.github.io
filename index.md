@@ -127,10 +127,25 @@ HTML & CSS - Chapter 18 - Process & Desgin
 
 Design web pages with CSS (Read 05)
 ```markdown
-Blog Article (2-3 paragraphs with code sample)
-Dictionary / Flash Cards
-Notes in outline form
-Fill-in-the-blank worksheet of key concepts
+HTML & CSS - Chapter 11 - Color
+-There are three ways to specify color in CSS:
+  1.RGB (Red, Green, Blue): 100,100,90
+  2.Hex Code: #ee3e80
+  3.Color Names: DarkCyan (this type isn't used often
+-CSS treats each HTML element as if it appears in a box = the bacground-color property sets color of background for specfic box
+-Background color can be specified in same three ways: RGB, Hex Code, & Color Names
+-Background color not specified = transparent
+-Color on a computer screen is always made with mixing an amount of red, green, & blue
+-With foreground & background colors there should be enough contrast for text to be legible
+-High Contrast = the easiest way to read but if for long period of time Medium Contast is best
+-CSS3: Opacity; a property which allows you to specify opacity of an element & any of it's child
+  -Value is number between 0.0 & 1.0 : 0.5 = 50% or  0.15 = 15%
+  -CSS3 rgba: allows to specify a color similar to RGB value but adds fourth value indicating opacity
+    -Fourth value is an alpha value & is a number between 0.0 & 1.0
+-CSS3: HSL Colors; new & intuitive way to specify colors using hue, saturation, and lightness values
+-CSS3: HSL & HSLA; alternate way to specify colors
+-Color brings site to life, helps convey mood, & evokes reaction
+-Color pickers help find color I want
 ```
 Activate web pages with JavaScript (Read 06)
 ```markdown
